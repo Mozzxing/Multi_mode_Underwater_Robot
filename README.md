@@ -20,6 +20,6 @@ Furthermore, we will deploy tools such as collectors and observers for specific 
 Both tools have only one degree of freedom. Notably, the collector has no active driving motor and moves purely relying on the robot's pitching motion.
 
 
-
+---
 Copyright Statement
 All code in this project is copyrighted by the author.Any use, reproduction, modification, commercial application or redistribution is strictly prohibited without written authorization from the autho
