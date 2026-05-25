@@ -1,6 +1,8 @@
 # Multi_mode_Underwater_Robot
 Modelling and Control
 
+
+
 Welcome to my repository.
 
 This repository centers on a multi-mode underwater robot developed by the Intelligent Robotics and Vision Laboratory, College of Engineering, Ocean University of China.
@@ -16,3 +18,8 @@ This is a novel seven-thruster multi-mode underwater robot. An additional thrust
 Furthermore, we will deploy tools such as collectors and observers for specific scenarios, including underwater sampling and offshore wind pile inspection.
 
 Both tools have only one degree of freedom. Notably, the collector has no active driving motor and moves purely relying on the robot's pitching motion.
+
+
+
+Copyright Statement
+All code in this project is copyrighted by the author.Any use, reproduction, modification, commercial application or redistribution is strictly prohibited without written authorization from the autho
